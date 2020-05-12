@@ -1,0 +1,2 @@
+cd C:\Users\samud\workspace\nopcommerceV12
+mvn 
